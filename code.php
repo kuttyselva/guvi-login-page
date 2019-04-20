@@ -23,7 +23,7 @@
 				</button>email sent<span> </span>
 			</div>
 					<div class="wrap-input100 validate-input" data-validate = 'password required'>
-						<input class="input100" type="password" name="password" id="password" placeholder="Password">
+						<input class="input100" type="text" name="code" id="code" placeholder="Reset Code">
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
 							<i class="fa fa-key" aria-hidden="true"></i>

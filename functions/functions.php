@@ -127,11 +127,11 @@ echo validate_errors($error);
     }
     else {
       if(register_user($first,$last,$user,$email,$pw)){
-      set_message("<p class='bg-success text-center'>please check your inbox/spam folder for activation</p>");
+      set_message("please check your inbox/spam folder for activation");
       redirect("login.php");
       }
       else {
-        set_message("<p class='bg-danger text-center'>unable to register. try again</p>");
+        set_message("unable to register. try again");
         redirect("login.php");
       }
     }
@@ -190,11 +190,11 @@ function activate_user(){
           $sql1="UPDATE users SET active=1,valid_code=0 WHERE email= '".escape($email)."' AND valid_code='".escape($validation)."'";
             $result1=query($sql1);
 
-        set_message("<p class='bg-success'>activated please login</p>");
+        set_message("activated please login");
         redirect("login.php");
         }
         else{
-          set_message("<p class='bg-danger'>Registration Error try again</p>");
+          set_message("Registration Error try again");
           redirect("login.php");
         }
 
@@ -362,8 +362,8 @@ function validate_code(){
     }
 
   else {
-    set_message("<p class='bg-success'>validation expires</p>");
-  //  redirect("recover.php");
+    set_message("validation expires");
+    redirect("recover.php");
   }
 }
 
@@ -386,7 +386,7 @@ function password_reset(){
 
             $sql="UPDATE users SET password = '".escape($updated_pw)."',valid_code=0 WHERE email='".escape($_GET['email'])."'";
             $result=query($sql);
-            set_message("<p class='bg-success text-center'>updated successfully</p>");
+            set_message("updated successfully");
             redirect("login.php");
 
            }
@@ -400,7 +400,7 @@ function password_reset(){
 
 
       else{
-        set_message("<p class='bg-danger'>sorry unable to process</p>");
+        set_message("sorry unable to process");
         redirect("recover.php");
         echo "not work";
       }
@@ -427,7 +427,9 @@ function entered(){
   $email=clean($_SESSION['email']);
   $sql="SELECT complete FROM users WHERE email='".escape($email)."' ";
   $result=query($sql);
-  if($result==1){
+  $row=fetch_array($result);
+  if($row['complete']==1){
+
     return true;
   }
 

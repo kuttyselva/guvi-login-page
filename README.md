@@ -29,4 +29,6 @@ Hosted Web link https://kuttyma.000webhostapp.com
   <img src="https://4.bp.blogspot.com/-WzcJTaZgUAo/XLs8vnT7CQI/AAAAAAAAKAM/yjtXGb-ZhPUh_OI2V5O5c5dBn8bOYvWSQCLcBGAs/s320/reg.png"></img>
    <h3>PAGE 1 : LOGIN</h3>
   <img src="https://4.bp.blogspot.com/-xrf7DJfhuOM/XLs8wA_tv7I/AAAAAAAAKAQ/H8BogHzu-k0EwwXUR152Z5VRggbJgT4BwCLcBGAs/s1600/reset.png"></img>
+  <h3>PAGE 1 : LOGIN</h3>
+  <img src="https://drive.google.com/open?id=14WDzqKKVvcBKZ1M_QZB-r3yegnXhxjx7"></img>
   

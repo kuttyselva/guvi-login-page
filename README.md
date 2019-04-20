@@ -16,6 +16,7 @@ Hosted Web link https://kuttyma.000webhostapp.com
   <li>Reset password Feature</li>
   <li>Encrypted Data</li>
   <li>Responsive Layout</li>
+  <li>Remember Login Session</li>
 </ul>
   
   <h3>PAGE 1 : LOGIN</h3>

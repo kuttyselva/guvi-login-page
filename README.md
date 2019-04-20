@@ -20,15 +20,17 @@ Hosted Web link https://kuttyma.000webhostapp.com
   
   <h3>PAGE 1 : LOGIN</h3>
   
-  <img src="https://3.bp.blogspot.com/-UDZdzYxkEjc/XLs8tw--ypI/AAAAAAAAKAA/baZl7M2NxIYVFlocQn_bPDpL9y86bLf0gCLcBGAs/s320/login.png"></img>
-   <h3>PAGE 1 : LOGIN</h3>
-  <img src="https://3.bp.blogspot.com/-PhgPf-J2D9o/XLs8uYZPKrI/AAAAAAAAKAI/oYvs0Z4vFpYWGlojGaDcSC1kCDjnSaNBgCLcBGAs/s320/profile.png"></img>
-   <h3>PAGE 1 : LOGIN</h3>
-  <img src="https://4.bp.blogspot.com/-FgF8RgbOh9E/XLs8uHUPSAI/AAAAAAAAKAE/TOZVSpwxEC8aiBovrkjUhwt8cxP0-oBCQCLcBGAs/s320/recover.png"></img>
-   <h3>PAGE 1 : LOGIN</h3>
-  <img src="https://4.bp.blogspot.com/-WzcJTaZgUAo/XLs8vnT7CQI/AAAAAAAAKAM/yjtXGb-ZhPUh_OI2V5O5c5dBn8bOYvWSQCLcBGAs/s320/reg.png"></img>
-   <h3>PAGE 1 : LOGIN</h3>
-  <img src="https://4.bp.blogspot.com/-xrf7DJfhuOM/XLs8wA_tv7I/AAAAAAAAKAQ/H8BogHzu-k0EwwXUR152Z5VRggbJgT4BwCLcBGAs/s1600/reset.png"></img>
-  <h3>PAGE 1 : LOGIN</h3>
-  <img src="https://drive.google.com/open?id=14WDzqKKVvcBKZ1M_QZB-r3yegnXhxjx7"></img>
+  <img src="https://4.bp.blogspot.com/-ot1fJZfprbg/XLtQPYCZw9I/AAAAAAAAKAs/u3Tx-X2lNW855ty3tORTuL8miFYcyF5xQCLcBGAs/s1600/login.png"></img>
+   <h3>PAGE 2 : REGISTER</h3>
+   <img src="https://4.bp.blogspot.com/-KjeEvKVHXjw/XLtQSPtgxQI/AAAAAAAAKA8/aPHXFQr8dyIy4buIB6YlDLBQUvP_PRlTgCLcBGAs/s1600/reg.png">
+  </img>
+   <h3>PAGE 3 : RECOVER</h3>
+  <img src="https://1.bp.blogspot.com/-qE4NwUUbjKA/XLtQRljg8sI/AAAAAAAAKA4/84BnehAA9hUxOF6LYcnry-_K-gXzAMlOgCLcBGAs/s1600/recover.png"></img>
+   <h3>PAGE 4 : PROFILE</h3>
+   <img src="https://1.bp.blogspot.com/-6HFeiHGUCpc/XLtQQSlv61I/AAAAAAAAKA0/64yPXy3mUjQj87lg8LkMl5NoNmdfFxtMQCLcBGAs/s1600/profile.png">
+  </img>
+   <h3>PAGE 5 : RESET</h3>
+  <img src="https://4.bp.blogspot.com/-A3XC0fyU97E/XLtQSfKJ_YI/AAAAAAAAKBA/BzH89J0OneYEI7oB9L8uSbTz5ZabmXGWgCLcBGAs/s1600/reset.png"></img>
+  <h3>PAGE 6 : JSON</h3>
+  <img src="https://4.bp.blogspot.com/-TnFt0Hati6Q/XLtQPZfMejI/AAAAAAAAKAw/1WdjdybXnB8kcp_1V2l1D2o9CgX5FAVowCLcBGAs/s1600/json.png"></img>
   
